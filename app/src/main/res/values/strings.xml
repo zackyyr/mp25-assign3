@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Profile</string>
+    <string-array name="study_programs">
+        <item>Informatics</item>
+        <item>Information Systems</item>
+        <item>Computer Science</item>
+        <item>Software Engineering</item>
+        <item>Data Science</item>
+    </string-array>
+</resources>

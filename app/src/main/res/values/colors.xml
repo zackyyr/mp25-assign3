@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_primary">#0F1117</color>
+    <color name="card_bg">#1A1D27</color>
+    <color name="input_bg">#12151F</color>
+    <color name="text_primary">#EAEAEA</color>
+    <color name="text_secondary">#7A7F99</color>
+    <color name="accent_gold">#D4A843</color>
+    <color name="accent_gold_light">#F0C96A</color>
+    <color name="input_stroke">#2A2E3D</color>
+    <color name="separator">#1F2233</color>
+    <color name="btn_text">#0F1117</color>
+    <color name="radio_unselected_bg">#1F2233</color>
+</resources>
